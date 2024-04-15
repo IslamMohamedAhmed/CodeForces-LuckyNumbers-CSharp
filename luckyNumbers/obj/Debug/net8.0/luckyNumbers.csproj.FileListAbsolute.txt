@@ -1,0 +1,14 @@
+C:\Users\Islam Mohamed\Documents\C# Projects\luckyNumbers\luckyNumbers\bin\Debug\net8.0\luckyNumbers.exe
+C:\Users\Islam Mohamed\Documents\C# Projects\luckyNumbers\luckyNumbers\bin\Debug\net8.0\luckyNumbers.deps.json
+C:\Users\Islam Mohamed\Documents\C# Projects\luckyNumbers\luckyNumbers\bin\Debug\net8.0\luckyNumbers.runtimeconfig.json
+C:\Users\Islam Mohamed\Documents\C# Projects\luckyNumbers\luckyNumbers\bin\Debug\net8.0\luckyNumbers.dll
+C:\Users\Islam Mohamed\Documents\C# Projects\luckyNumbers\luckyNumbers\bin\Debug\net8.0\luckyNumbers.pdb
+C:\Users\Islam Mohamed\Documents\C# Projects\luckyNumbers\luckyNumbers\obj\Debug\net8.0\luckyNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Islam Mohamed\Documents\C# Projects\luckyNumbers\luckyNumbers\obj\Debug\net8.0\luckyNumbers.AssemblyInfoInputs.cache
+C:\Users\Islam Mohamed\Documents\C# Projects\luckyNumbers\luckyNumbers\obj\Debug\net8.0\luckyNumbers.AssemblyInfo.cs
+C:\Users\Islam Mohamed\Documents\C# Projects\luckyNumbers\luckyNumbers\obj\Debug\net8.0\luckyNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Islam Mohamed\Documents\C# Projects\luckyNumbers\luckyNumbers\obj\Debug\net8.0\luckyNumbers.dll
+C:\Users\Islam Mohamed\Documents\C# Projects\luckyNumbers\luckyNumbers\obj\Debug\net8.0\refint\luckyNumbers.dll
+C:\Users\Islam Mohamed\Documents\C# Projects\luckyNumbers\luckyNumbers\obj\Debug\net8.0\luckyNumbers.pdb
+C:\Users\Islam Mohamed\Documents\C# Projects\luckyNumbers\luckyNumbers\obj\Debug\net8.0\luckyNumbers.genruntimeconfig.cache
+C:\Users\Islam Mohamed\Documents\C# Projects\luckyNumbers\luckyNumbers\obj\Debug\net8.0\ref\luckyNumbers.dll
